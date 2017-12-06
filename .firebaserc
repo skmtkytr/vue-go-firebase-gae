@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "test-go-app-e5eb9",
+    "staging": "test-go-app-e5eb9"
+  }
+}
